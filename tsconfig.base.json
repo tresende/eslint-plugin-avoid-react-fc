@@ -1,13 +1,11 @@
 {
   "compilerOptions": {
     "baseUrl": "src",
-    "target": "ES2022",
-    "lib": ["esnext"],
     "skipLibCheck": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true,
-    "module": "esnext",
+    "module": "commonjs",
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "incremental": true
